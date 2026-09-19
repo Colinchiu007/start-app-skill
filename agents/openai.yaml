@@ -1,0 +1,4 @@
+# OpenAI Agents UI 元数据 (generated for start-app)
+display_name: "Start App"
+short_description: "用最新代码 + 已登录 profile 启动/重启 Multi-Publish 桌面应用（Windows/WSL 双环境）"
+default_prompt: "启动应用"
